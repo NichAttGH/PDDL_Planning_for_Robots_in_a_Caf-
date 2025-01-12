@@ -1,5 +1,6 @@
 # PDDL Planning for Robots in a Café
 
+## Description
 This project sets out to analyze the efficiency of a PDDL planning model for managing the movements and actions of a waiter robot and a barista robot in a coffee shop. The goal is to optimize the coffee shop's operations, like drink preparation, table service, and cleaning, using automated planning. [Report](https://github.com/NichAttGH/PDDL_Planning_for_Robots_in_a_Cafe/blob/main/Report.pdf) for more details.
 
 ## Tasks
