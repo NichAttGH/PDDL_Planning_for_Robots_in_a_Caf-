@@ -20,11 +20,6 @@ This project sets out to analyze the efficiency of a PDDL planning model for man
 - Different configurations of the ENHSP planner showed variable performance regarding planning time and the number of nodes expanded.
 - Action execution time varied depending on the problem’s complexity.
 
-## Conclusions
-- This study highlights the potential of automated planning to optimize restaurant operations.
-- Using robots and AI in the restaurant industry can improve efficiency and customer satisfaction.
-- Further research and development are needed to address more complex challenges and make robotic systems even more efficient.
-
 ## How to test
 
 *Remember to install ENHSP20 before running!*
